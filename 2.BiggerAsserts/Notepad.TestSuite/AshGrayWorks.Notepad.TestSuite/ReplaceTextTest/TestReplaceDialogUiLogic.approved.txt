@@ -1,0 +1,27 @@
+﻿Initial Dialog State =
+{
+Replace What: []	[Find Next X]
+Replace With: []	[Replace X]
+                   	[Replace All X]
+                   	[Cancel: O]
+
+}
+
+When find what is entered =
+{
+Replace What: [aasas]	[Find Next O]
+Replace With: []	[Replace O]
+                   	[Replace All O]
+                   	[Cancel: O]
+
+}
+
+When find what is cleared =
+{
+Replace What: []	[Find Next X]
+Replace With: []	[Replace X]
+                   	[Replace All X]
+                   	[Cancel: O]
+
+}
+

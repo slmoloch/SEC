@@ -1,0 +1,27 @@
+﻿Initial Dialog =
+{
+Replace What: []	[Find Next X]
+Replace With: []	[Replace X]
+                   	[Replace All X]
+                   	[Cancel: O]
+
+}
+
+Dialog after some text put into Find What =
+{
+Replace What: []	[Find Next X]
+Replace With: []	[Replace X]
+                   	[Replace All X]
+                   	[Cancel: O]
+
+}
+
+Dialog after some text was cleaned =
+{
+Replace What: []	[Find Next X]
+Replace With: []	[Replace X]
+                   	[Replace All X]
+                   	[Cancel: O]
+
+}
+
